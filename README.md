@@ -1,12 +1,13 @@
 # Hunter
+![alt text](https://github.com/t3knical/Hunter/blob/main/plugin_icon.png?raw=true)
 
 Very new buggy testing version of an attempt to implement gathering items from mobs around the world of FFXIV.
 
-## Hunter's Repo: 
+## Hunter's Repo
 
 [Hunter](https://raw.githubusercontent.com/t3knical/Hunter/refs/heads/main/repo.js)
 
-## Required Plugin Repo's:
+## Required Plugin Repo's
 
 [Lifestream](https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json)
 
