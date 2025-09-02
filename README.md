@@ -17,8 +17,8 @@ Very new buggy testing version of an attempt to implement gathering items from m
 
 [Teleporter (i think it's built it)](https://github.com/t3knical/Hunter) 
 
-### Lifestream setup for resting location when done:
+## Lifestream setup for resting location when done
 ![alt text](https://github.com/t3knical/Hunter/blob/main/setup-restspot.png?raw=true)
 
-### Lifestream setup for hinterlands in lifestream:
+## Lifestream setup for hinterlands in lifestream
 ![alt text](https://github.com/t3knical/Hunter/blob/main/setup-hinterland.png?raw=true)
