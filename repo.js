@@ -20,7 +20,7 @@
     "IsTestingExclusive": "True",
     "DownloadCount": 1,
     "LastUpdate": 1618608322,
-    "DownloadLinkInstall": "https://github.com/t3knical/Hunter/raw/refs/heads/main/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/t3knical/Hunter/raw/refs/heads/main/latest.zip"
+    "DownloadLinkInstall": "https://github.com/t3knical/Hunter/raw/refs/heads/main/1.0.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/t3knical/Hunter/raw/refs/heads/main/1.0.0.0/latest.zip"
   }
 ]
