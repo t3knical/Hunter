@@ -2,7 +2,7 @@
   {
     "Author": "T3knical",
     "Name": "Hunter",
-    "Punchline": "Auto-execute configured emotes as you chat!",
+    "Punchline": "Tracks item collection progress and targets relevant mobs",
     "Description": "Tracks item collection progress and targets relevant mobs",
     "InternalName": "Hunter",
     "AssemblyVersion": "1.0.0",
