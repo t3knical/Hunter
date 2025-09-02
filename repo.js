@@ -20,7 +20,7 @@
     "IconUrl": "https://raw.githubusercontent.com/t3knical/Hunter/main/plugin_icon.png",
     "RepoUrl": "https://github.com/t3knical/Hunter",
     "IsHide": "False",
-    "IsTestingExclusive": "True",
+    "IsTestingExclusive": "False",
     "DownloadCount": 1,
     "LastUpdate": 1618608322,
     "DownloadLinkInstall": "https://github.com/t3knical/Hunter/raw/refs/heads/main/1.0.0.0/latest.zip",
