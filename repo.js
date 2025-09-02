@@ -2,10 +2,10 @@
   {
     "Author": "T3knical",
     "Name": "Hunter",
-    "Punchline": "Tracks item collection progress and targets relevant mobs",
+    "Punchline": "Automatically hunt mobs for specific items",
     "Description": "Tracks item collection progress and targets relevant mobs",
     "InternalName": "Hunter",
-    "AssemblyVersion": "1.0.0",
+    "AssemblyVersion": "1.0.0.0",
     "ApplicableVersion": "any",
     "Tags": [
       "Hunt",
@@ -14,6 +14,9 @@
     ],
     "DalamudApiLevel": 13,
     "LoadPriority": 90,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
     "IconUrl": "https://raw.githubusercontent.com/t3knical/Hunter/main/plugin_icon.png",
     "RepoUrl": "https://github.com/t3knical/Hunter",
     "IsHide": "False",
