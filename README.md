@@ -18,6 +18,7 @@ Very new buggy testing version of an attempt to implement gathering items from m
 [Teleporter (i think it's built it)](https://github.com/t3knical/Hunter) 
 
 ## Lifestream setup for resting location when done
+This could be anything technically, even just a tele to a main crystal...
 ![alt text](https://github.com/t3knical/Hunter/blob/main/setup-restspot.png?raw=true)
 
 ## Lifestream setup for hinterlands in lifestream
