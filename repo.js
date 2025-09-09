@@ -5,7 +5,7 @@
     "Punchline": "Automatically hunt mobs for specific items",
     "Description": "Tracks item collection progress and targets relevant mobs",
     "InternalName": "Hunter",
-    "AssemblyVersion": "1.0.0.1",
+    "AssemblyVersion": "1.0.0.2",
     "ApplicableVersion": "any",
     "Tags": [
       "Hunt",
@@ -21,9 +21,9 @@
     "RepoUrl": "https://github.com/t3knical/Hunter",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadCount": 1,
+    "DownloadCount": 2,
     "LastUpdate": 1618608322,
-    "DownloadLinkInstall": "https://github.com/t3knical/Hunter/releases/download/v1.0.0.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/t3knical/Hunter/releases/download/v1.0.0.1/latest.zip"
+    "DownloadLinkInstall": "https://github.com/t3knical/Hunter/releases/download/release/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/t3knical/Hunter/releases/download/release/latest.zip"
   }
 ]
