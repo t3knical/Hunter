@@ -5,7 +5,7 @@
     "Punchline": "Automatically hunt mobs for specific items",
     "Description": "Tracks item collection progress and targets relevant mobs",
     "InternalName": "Hunter",
-    "AssemblyVersion": "1.0.0.2",
+    "AssemblyVersion": "1.0.0.3",
     "ApplicableVersion": "any",
     "Tags": [
       "Hunt",
