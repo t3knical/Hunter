@@ -12,8 +12,8 @@
       "Gather",
       "Monster Killer"
     ],
-    "DalamudApiLevel": 13,
-    "LoadPriority": 90,
+    "DalamudApiLevel": 14,
+    "LoadPriority": 0,
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
