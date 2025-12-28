@@ -23,7 +23,7 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 2,
     "LastUpdate": 1618608322,
-    "DownloadLinkInstall": "https://github.com/t3knical/Hunter/releases/download/release/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/t3knical/Hunter/releases/download/release/latest.zip"
+    "DownloadLinkInstall": "https://github.com/t3knical/Hunter/releases/download/v1.0.0.5/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/t3knical/Hunter/releases/download/v1.0.0.5/latest.zip"
   }
 ]
